@@ -1,0 +1,22 @@
+body {
+    margin-top: 200px;
+    background-color: lightblue;
+}
+
+.welcome {
+    margin: auto;
+    width: 50%;
+}
+
+#names {
+    margin: auto;
+    width: 50%;
+}
+
+button {
+    border: solid 1px #ababab;
+	margin: 0 auto;
+	display: block;
+	width: 200px;
+	height: 50px;
+}
